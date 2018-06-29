@@ -1,0 +1,10 @@
+C:\Users\matheus\source\repos\crudCadastro\crudCadastro\bin\Debug\crudCadastro.exe.config
+C:\Users\matheus\source\repos\crudCadastro\crudCadastro\bin\Debug\crudCadastro.exe
+C:\Users\matheus\source\repos\crudCadastro\crudCadastro\bin\Debug\crudCadastro.pdb
+C:\Users\matheus\source\repos\crudCadastro\crudCadastro\obj\Debug\crudCadastro.Form1.resources
+C:\Users\matheus\source\repos\crudCadastro\crudCadastro\obj\Debug\crudCadastro.Properties.Resources.resources
+C:\Users\matheus\source\repos\crudCadastro\crudCadastro\obj\Debug\crudCadastro.csproj.GenerateResource.cache
+C:\Users\matheus\source\repos\crudCadastro\crudCadastro\obj\Debug\crudCadastro.csproj.CoreCompileInputs.cache
+C:\Users\matheus\source\repos\crudCadastro\crudCadastro\obj\Debug\crudCadastro.exe
+C:\Users\matheus\source\repos\crudCadastro\crudCadastro\obj\Debug\crudCadastro.pdb
+C:\Users\matheus\source\repos\crudCadastro\crudCadastro\obj\Debug\crudCadastro.csprojAssemblyReference.cache
